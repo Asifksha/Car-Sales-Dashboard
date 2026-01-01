@@ -1,4 +1,4 @@
- **<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/2f004dcf-3d53-46a6-84ce-7b20f241d44d" />
+ **<img width="51" height="51" alt="image" src="https://github.com/user-attachments/assets/2f004dcf-3d53-46a6-84ce-7b20f241d44d" />
      Car-Sales-Dashboard** 
 
 ******Background**: Our company is a car dealership that sells various car models. To effectively track and analyse our sales performance, we need a comprehensive Car Sales Dashboard in Power BI. ******
