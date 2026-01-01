@@ -9,9 +9,9 @@
 **Data Source: From Kaggle**
 
 
-**Problem Statement**
+**Problem Statement** 1: KPI’s Requirement
 
-1: KPI’s Requirement
+
 The dashboard should provide real-time insights into key performance indicators (KPIs) related to our sales data. This will enable us to make informed decisions, monitor our progress, and identify trends and opportunities for growth.
 
 1.	Sales Overview: known as time intelligence functions and need to create a calendar table 
